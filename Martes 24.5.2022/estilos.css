@@ -1,0 +1,36 @@
+body{
+    background-color: #fff;
+    padding:0;
+    margin: 0;
+}
+
+
+#img1 {
+    margin:25px;
+    align-items: center;
+  
+}
+
+#btn {
+  font-weight: 600;
+  font-size: medium;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:#0d0d0e;
+  border-color:#808080;
+  border-radius:.5rem;
+  cursor: pointer;
+  height: 50%;
+  width: auto;
+  transition: .3s ease all;
+  margin-left: 50%;
+  }
+
+  footer {
+    background-color: #ff0;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    color: #0d0d0e;
+    font-weight: 500;
+ }
+
