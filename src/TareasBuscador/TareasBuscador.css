@@ -1,0 +1,24 @@
+.TareasBuscador{
+    margin: auto; 
+    background: white;
+    border-radius: 2px;
+    border: 2px;
+    height: 64px;
+    width:450px;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: rgb (0, 0, 0);
+    box-shadow: 30px 15px #d485a9;
+    cursor: text;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.TareasBuscador::placeholder{
+    color : #818081;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
